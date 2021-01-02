@@ -2,3 +2,4 @@
 commit
 push
 pull
+commit
